@@ -1,7 +1,7 @@
 # Internet Archive Books to Google Drive
 
 CLI script that takes a list of book titles, searches Internet Archive, downloads the best matching available file, uploads it to Google Drive, and writes a CSV report. It is meant for batch runs from a text file, not interactive use.
-
+Loom Demo over <a href="https://www.loom.com/share/71f4c12813bb4cb5801bc5632b01528b"> here</a>
 ## Inputs
 
 - a text file with one book per line
