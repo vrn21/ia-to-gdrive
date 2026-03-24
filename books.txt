@@ -1,0 +1,6 @@
+# Sample book list — one per line, optional "| author"
+Moby Dick | Herman Melville
+The Art of War | Sun Tzu
+Pride and Prejudice | Jane Austen
+Meditations | Marcus Aurelius
+A Tale of Two Cities
